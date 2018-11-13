@@ -22,6 +22,7 @@ import org.glassfish.jersey.server.ResourceConfig;
  * Main class.
  *
  */
+ // trigger wercker
 public class Main {
     // Base URI the Grizzly HTTP server will listen on
 	public static String BASE_URI;
